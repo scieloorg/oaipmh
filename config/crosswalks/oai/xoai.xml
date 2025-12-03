@@ -21,8 +21,9 @@
             <Format ref="oai_dc"/>
             <Format ref="oai_dc_agris"/>
             <Format ref="oai_dc_openaire"/>
-            <!-- <Format ref="mets"/>
+            <Format ref="mods"/>
             <Format ref="xoai"/>
+            <!-- <Format ref="mets"/>
             <Format ref="didl"/>
             <Format ref="dim"/>
             <Format ref="ore"/>
