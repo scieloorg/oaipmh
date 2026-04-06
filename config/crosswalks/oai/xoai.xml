@@ -156,12 +156,13 @@
             <XSLT>metadataFormats/oai_openaire.xsl</XSLT>
             <Namespace>http://namespace.openaire.eu/schema/oaire/</Namespace>
             <SchemaLocation>https://www.openaire.eu/schema/repo-lit/4.0/openaire.xsd</SchemaLocation>
-        </Format>	
+        </Format>
+
         <Format id="oai_dc_agris">
             <Prefix>oai_dc_agris</Prefix>
             <XSLT>metadataFormats/oai_dc_agris.xsl</XSLT>
-            <Namespace>http://www.openarchives.org/OAI/2.0/oai_dc/</Namespace>
-            <SchemaLocation>http://www.openarchives.org/OAI/2.0/oai_dc.xsd</SchemaLocation>
+            <Namespace>http://purl.org/agmes/1.1/</Namespace>
+            <SchemaLocation>http://purl.org/agmes/agrisap/dtd/</SchemaLocation>
         </Format>
 
         <Format id="mets">
